@@ -5,7 +5,7 @@ import heroImg from './assets/hero.png'
 import { setupCounter } from './counter.js'
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App.jsx' // 1. Aquí se importa tu archivo App.jsx
+import App from './app.jsx' // 1. Aquí se importa tu archivo App.jsx
 import './index.css'
 
 // 2. Aquí se conecta React con el HTML y se renderiza <App />
